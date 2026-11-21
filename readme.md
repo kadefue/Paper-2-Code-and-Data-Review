@@ -1,4 +1,4 @@
-# Study 2: Tanzania Smallholder Farm Mechanization
+# Tanzania Smallholder Farm Mechanization - Farm Mechanization Modeling and Simulation
 
 This repository contains the data-processing and analysis code for a study of
 smallholder farm mechanization in Tanzania. The Python pipeline harmonizes
