@@ -1,0 +1,10 @@
+crop_group,regime,n_plots,pct_censored_15,pct_censored_160,emp_mean_D
+Maize,M0,16336,1.39,9.03,108.8
+Maize,M1,4151,0.84,8.5,101.9
+Maize,M2_M3,4351,1.2,23.03,104.4
+Paddy,M0,3921,1.32,7.88,106.7
+Paddy,M1,1201,0.54,16.34,114.2
+Paddy,M2_M3,958,0.59,23.62,111.4
+Legumes,M0,10426,1.06,8.94,111.4
+Legumes,M1,2494,1.11,7.29,98.6
+Legumes,M2_M3,2587,0.71,6.51,95.3

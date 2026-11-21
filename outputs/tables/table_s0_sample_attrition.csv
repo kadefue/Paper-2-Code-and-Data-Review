@@ -1,0 +1,6 @@
+Stage,Plots_N,Dropped_N
+1. Raw multi-wave Maize/Paddy/Legumes plots (9 surveys),159619,0
+"2. Valid smallholder plot area [0.05, 20.0] ha",147523,12096
+3. Causal-eligible waves (exclude NCSA 19/20 & AASS 23/24-24/25 without plot/machinery rosters),51905,95618
+"4. Valid yield (>0, <= biological ceiling) & survey weight (>0)",47494,4411
+"5. Retained after GPS common-support trimming [0.02, 0.98]",46425,1069

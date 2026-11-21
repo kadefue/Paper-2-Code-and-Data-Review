@@ -1,0 +1,28 @@
+aez_code,aez_name,crop_group,beta_y0
+1,Central Semi-Arid,Maize,1.3726451151594046
+1,Central Semi-Arid,Paddy,1.0945963695314818
+1,Central Semi-Arid,Legumes,1.1381240007034392
+2,Northern Highlands,Maize,1.2464755172168462
+2,Northern Highlands,Paddy,1.0862676023951745
+2,Northern Highlands,Legumes,0.8169325654257986
+3,Southern Highlands,Maize,1.6875716282257038
+3,Southern Highlands,Paddy,1.158975397276849
+3,Southern Highlands,Legumes,1.0357811365561305
+4,Lake Victoria Basin,Maize,0.989478242413535
+4,Lake Victoria Basin,Paddy,1.0356474050479183
+4,Lake Victoria Basin,Legumes,0.6293849003777691
+5,Western Miombo,Maize,1.4697049789471561
+5,Western Miombo,Paddy,1.6706262793585902
+5,Western Miombo,Legumes,0.9295486354255532
+6,Eastern Coastal Lowlands,Maize,1.0366622033364936
+6,Eastern Coastal Lowlands,Paddy,0.9056577812522892
+6,Eastern Coastal Lowlands,Legumes,0.43545688410658334
+7,Southern Coastal Lowlands,Maize,0.6588267325265982
+7,Southern Coastal Lowlands,Paddy,0.7062354348125975
+7,Southern Coastal Lowlands,Legumes,0.7956884232175274
+8,Northern Coastal Lowlands,Maize,1.1989099476552891
+8,Northern Coastal Lowlands,Paddy,1.2590911344654572
+8,Northern Coastal Lowlands,Legumes,0.4552548092832287
+9,Zanzibar Archipelago,Maize,0.8813806268018853
+9,Zanzibar Archipelago,Paddy,0.9430074786169605
+9,Zanzibar Archipelago,Legumes,0.3015793729104511

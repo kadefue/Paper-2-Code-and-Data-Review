@@ -1,0 +1,32 @@
+# Table 3: Two-Stage Model Validation (Observed IPWRA vs. Stage 1 UVE vs. Stage 2 MVE)
+*N=2,000 Latin Hypercube draws; two-sample Kolmogorov-Smirnov test vs. observed*
+
+| Crop | Regime | Series | Mean_tha | SD_tha | CV_pct | Min_tha | Median_tha | Max_tha | KS_D_vs_Obs | KS_p_value |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Maize | M0 | Observed_IPWRA | 0.814 | 0.904 | 111.1 | 0.001 | 0.488 | 5.045 | - | - |
+| Maize | M0 | Stage1_UVE | 0.819 | 0.914 | 111.7 | 0.002 | 0.488 | 5.045 | - | - |
+| Maize | M0 | Stage2_MVE | 0.819 | 0.914 | 111.7 | 0.002 | 0.488 | 5.045 | 0.0111 | 0.9797 |
+| Maize | M1 | Observed_IPWRA | 0.965 | 0.994 | 103.0 | 0.005 | 0.635 | 5.351 | - | - |
+| Maize | M1 | Stage1_UVE | 0.977 | 1.022 | 104.5 | 0.0 | 0.63 | 5.351 | - | - |
+| Maize | M1 | Stage2_MVE | 0.972 | 1.018 | 104.8 | 0.003 | 0.636 | 5.351 | 0.0135 | 0.9621 |
+| Maize | M2_M3 | Observed_IPWRA | 1.179 | 1.195 | 101.3 | 0.001 | 0.779 | 6.125 | - | - |
+| Maize | M2_M3 | Stage1_UVE | 1.189 | 1.187 | 99.8 | 0.001 | 0.816 | 6.125 | - | - |
+| Maize | M2_M3 | Stage2_MVE | 1.193 | 1.184 | 99.2 | 0.001 | 0.838 | 6.125 | 0.0236 | 0.4229 |
+| Paddy | M0 | Observed_IPWRA | 1.355 | 1.315 | 97.1 | 0.001 | 0.918 | 5.8 | - | - |
+| Paddy | M0 | Stage1_UVE | 1.377 | 1.342 | 97.4 | 0.001 | 0.942 | 5.8 | - | - |
+| Paddy | M0 | Stage2_MVE | 1.377 | 1.342 | 97.4 | 0.001 | 0.942 | 5.8 | 0.0135 | 0.9654 |
+| Paddy | M1 | Observed_IPWRA | 1.654 | 1.474 | 89.2 | 0.013 | 1.154 | 6.281 | - | - |
+| Paddy | M1 | Stage1_UVE | 1.714 | 1.506 | 87.9 | 0.008 | 1.253 | 6.281 | - | - |
+| Paddy | M1 | Stage2_MVE | 1.707 | 1.489 | 87.3 | 0.008 | 1.252 | 6.281 | 0.0331 | 0.3727 |
+| Paddy | M2_M3 | Observed_IPWRA | 1.818 | 1.71 | 94.1 | 0.008 | 1.21 | 9.374 | - | - |
+| Paddy | M2_M3 | Stage1_UVE | 1.855 | 1.753 | 94.5 | 0.004 | 1.214 | 9.367 | - | - |
+| Paddy | M2_M3 | Stage2_MVE | 1.865 | 1.757 | 94.2 | 0.004 | 1.23 | 9.372 | 0.027 | 0.7187 |
+| Legumes | M0 | Observed_IPWRA | 0.294 | 0.423 | 143.9 | 0.0 | 0.145 | 2.778 | - | - |
+| Legumes | M0 | Stage1_UVE | 0.289 | 0.42 | 145.6 | 0.0 | 0.143 | 2.778 | - | - |
+| Legumes | M0 | Stage2_MVE | 0.289 | 0.42 | 145.6 | 0.0 | 0.143 | 2.778 | 0.0171 | 0.7036 |
+| Legumes | M1 | Observed_IPWRA | 0.32 | 0.444 | 138.7 | 0.001 | 0.145 | 2.698 | - | - |
+| Legumes | M1 | Stage1_UVE | 0.316 | 0.439 | 138.9 | 0.0 | 0.145 | 2.698 | - | - |
+| Legumes | M1 | Stage2_MVE | 0.317 | 0.448 | 141.0 | 0.0 | 0.148 | 2.698 | 0.0211 | 0.6974 |
+| Legumes | M2_M3 | Observed_IPWRA | 0.324 | 0.438 | 135.2 | 0.001 | 0.175 | 2.889 | - | - |
+| Legumes | M2_M3 | Stage1_UVE | 0.327 | 0.436 | 133.6 | 0.001 | 0.173 | 2.889 | - | - |
+| Legumes | M2_M3 | Stage2_MVE | 0.328 | 0.438 | 133.5 | 0.001 | 0.165 | 2.889 | 0.0227 | 0.5974 |
